@@ -2,6 +2,10 @@ Changelog for CAB-Tanks
 
 -----------------------------------------------------
 
+3.7.1
+
+CustomUnits assisted VTOLs moved to CU-CAB
+
 3.7
 
 Added the Pike 
